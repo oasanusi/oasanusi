@@ -61,7 +61,7 @@ ___
 
 ### 💬 Want to know more about me?
 
-You can also check out my [My personal portfolio](http://garimasingh.me) and my 📝[Resume
+You can also check out my [My personal portfolio](http://garimasingh.me) and my 📝[Resume](https://drive.google.com/file/d/1-FjLnnVVj6gdGoR5M5ZDb64CMsiqgdEk/view?usp=sharing)
 <!---
 oasanusi/oasanusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
