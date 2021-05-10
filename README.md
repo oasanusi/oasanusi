@@ -1,4 +1,4 @@
-### 🧐 About Ola Sanusi, PhD
+### 🧐 About 
 
   <p align="center">
       <b>Data Scientist | Geoenvironmental Engineer | Researcher | Technical Communicator | Educator</b>
