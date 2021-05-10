@@ -7,13 +7,6 @@
 #### Apart from being a Data scientist with a PhD in Geoenvironmental Engineering. I am a highly motivated researcher and technical communicator who love to learn new technologies and skills. I enjoy analyzing huge datasets in order to identify vital details that might be helpful for decision makers. I have expertise in python, data cleaning, visualizations and machine/deep learning, and consistently learn new things to get up to date in data analytics. 
 ---
 
-**Currently I am working on /learning...**
-
-- 
-
-- 
-
-
   ***
 
 ### 🛠️🌐**Skills and Tools:**
