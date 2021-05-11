@@ -58,4 +58,5 @@ oasanusi/oasanusi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=oasanusi)
+![](https://komarev.com/ghpvc/?username=oasanusi&color=blueviolet)
+
