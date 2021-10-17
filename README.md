@@ -4,7 +4,7 @@
       <b>Data Scientist | Geoenvironmental Engineer | Researcher | Technical Communicator | Educator</b>
   </p>
 
-#### Apart from being a Data scientist with a PhD in Geoenvironmental Engineering. I am a highly motivated researcher and technical communicator who love to learn new technologies and skills. I enjoy analyzing huge datasets in order to identify vital details that might be helpful for decision makers. I have expertise in python, data cleaning, visualizations and machine/deep learning, and consistently learn new things to get up to date in data analytics. 
+#### Apart from being a Data scientist with a PhD in Geoenvironmental Engineering. I am a highly motivated researcher and technical communicator who love to learn new technologies and skills. I enjoy analyzing huge datasets in order to identify vital details that might be helpful for decision makers. I have expertise in python, R, data cleaning, visualizations and machine/deep learning, and consistently learn new things to get up to date in data analytics. 
 ---
  
 ### 🛠️🌐**Skills and Tools:**
@@ -12,9 +12,9 @@
 
 - ####  Languages: Python, R
 
-- ####  Data Wrangling and munging using Regular Expression, Numpy and Pandas 
+- ####  Data Wrangling and munging using Regular Expression, Numpy, Tidyverse and Pandas 
 
-- ####  Data Visualizations using Seaborn, Matplotlib, and Geopandas           
+- ####  Data Visualizations using Seaborn, Matplotlib, Ggplot2 and Geopandas           
 
 - #### Supervised and Unsupervised Machine Learning using Scikit-Learn, Sktime and Keras
 
